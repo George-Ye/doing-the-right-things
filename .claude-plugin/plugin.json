@@ -1,0 +1,12 @@
+{
+  "name": "doing-the-right-things",
+  "description": "A Claude Code skill that forces direction validation before execution optimization. Prevents band-aid fixes by requiring explicit comparison of execution risk vs directional risk.",
+  "version": "1.0.0",
+  "author": {
+    "name": "George Ye"
+  },
+  "homepage": "https://github.com/George-Ye/doing-the-right-things",
+  "repository": "https://github.com/George-Ye/doing-the-right-things",
+  "license": "MIT",
+  "keywords": ["skills", "direction", "architecture", "anti-band-aid", "做对的事情"]
+}
