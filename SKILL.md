@@ -9,6 +9,22 @@ description: >-
 
 # Doing the Right Things
 
+## Foundation
+
+Three principles, in priority order (段永平 / Drucker):
+
+1. **做对的事情** (Do the right things) — direction before execution
+2. **把事情做对** (Do things right) — execution quality matters, but only after direction is confirmed
+3. **知错就改** (Correct course immediately) — sunk cost is irrelevant; stopping a wrong path IS progress
+
+> "如果方向错了，执行力越强，死得越快。"
+> If the direction is wrong, the stronger your execution, the faster you die.
+
+> "There is nothing so useless as doing with great efficiency something that should not be done at all." — Peter Drucker
+
+Root cause analysis asks "what broke?" This skill asks the question BEFORE that:
+**is this system still worth fixing, or should we change direction?**
+
 Low execution risk on a wrong direction is not low risk. It is deferred risk that compounds.
 
 **Core principle:** Check whether the direction is right BEFORE optimizing execution.
