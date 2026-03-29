@@ -8,9 +8,7 @@
       "name": "doing-the-right-things",
       "version": "1.0.0",
       "description": "Direction-checking skill: forces explicit comparison of execution risk vs directional risk before proposing fixes. Inspired by Duan Yongping's philosophy.",
-      "source": {
-        "source": "./"
-      }
+      "source": "./"
     }
   ]
 }
